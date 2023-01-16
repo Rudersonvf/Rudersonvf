@@ -4,7 +4,7 @@ I'm a padawan in the Java side of the development
 <div align="center">
   <a href="https://github.com/Rudersonvf">
   <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rudersonvf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rudersonvf&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rudersonvf&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
 
