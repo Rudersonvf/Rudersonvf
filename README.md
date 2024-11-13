@@ -11,24 +11,8 @@
   <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="center" alt="Kubernetes" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 </div>
- 
-##
-<div>
-  <a href="https://ruderson.com.br" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Portfolio-%23853BCE?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a> 
-  <a href="https://www.linkedin.com/in/rudersonvf" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:contato@ruderson.com.br" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
 
 ##
-
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23853BCE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ruderson.com.br)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudersonvf)
 [![Email Badge](https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@ruderson.com.br)
-
-
