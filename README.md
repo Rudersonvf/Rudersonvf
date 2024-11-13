@@ -25,3 +25,10 @@
   </a>
 </div>
 
+##
+
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23853BCE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ruderson.com.br)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudersonvf)
+[![Email Badge](https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@ruderson.com.br)
+
+
