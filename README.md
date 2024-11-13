@@ -14,15 +14,4 @@
  
 ##
 
- <a href="https://ruderson.com.br" target="_blank" style="text-decoration: none;">
-  <div style="display: inline-flex; align-items: center; background-color: #0077cc; color: white; font-family: Arial, sans-serif; font-size: 14px; padding: 6px 10px; border-radius: 4px;">
-    <img src="https://ruderson.com.br/assets/icon-T34JQ6jf.svg" alt="Ícone Portfolio" style="width: 20px; height: 20px; margin-right: 6px;">
-    <span>Portfolio</span>
-  </div>
-</a>
-
-  <a href="https://www.linkedin.com/in/rudersonvf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
-  <a href = "mailto:contato@ruderson.com.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-</div>
+<img src="https://img.shields.io/badge/portfolio-meu_project-blue.svg?logo=https://ruderson.com.br/assets/icon-T34JQ6jf.svg/>
