@@ -16,6 +16,11 @@
 
 <div>
   <a href="https://ruderson.com.br" target="_blank">
+  <img src="https://ruderson.com.br/assets/icon-T34JQ6jf.svg" height="20" style="vertical-align:middle; margin-right: 4px;">
+  <img src="https://img.shields.io/badge/ruderson.com.br-Website-blue?style=for-the-badge" alt="ruderson.com.br">
+</a>
+
+  <a href="https://ruderson.com.br" target="_blank">
    <img src="https://img.shields.io/badge/Website-ruderson.com.br-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="ruderson.com.br">
 </a>
   <a href="https://www.linkedin.com/in/rudersonvf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
