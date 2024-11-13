@@ -15,7 +15,7 @@
 ##
 
   <a href="https://ruderson.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Website-ruderson.com.br-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="ruderson.com.br">
+    <img src="https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=data:image/svg+xml;base64,SEU_SVG_EM_BASE64&logoColor=white" alt="ruderson.com.br">
   </a>
 
   <a href="https://ruderson.com.br" target="_blank">
