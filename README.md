@@ -13,5 +13,7 @@
 </div>
  
 ##
-
-<img src="https://img.shields.io/badge/portfolio-meu_project-blue.svg?logo=https://ruderson.com.br/assets/icon-T34JQ6jf.svg/>
+<div>
+  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</div>
+<img src="https://img.shields.io/badge/portfolio-meu_project-blue.svg?logo=https://ruderson.com.br/assets/icon-T34JQ6jf.svg">
